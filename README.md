@@ -49,5 +49,10 @@ __________________________________________________________
 ![image](https://user-images.githubusercontent.com/88467263/147858214-5f9df836-c00c-4e50-b824-e420614ce99c.png)
 
 ### Deliverable 4: Visualizing Cryptocurrencies Results
-<img width="374" alt="scatter_3d" src="https://user-images.githubusercontent.com/88467263/147858244-1842e741-5c72-4e93-b1d4-70bd55dd463a.PNG">
+
+* Create a table with tradable cryptocurrencies using the hvplot.table() function.
+
+![image](https://user-images.githubusercontent.com/88467263/147858271-da558f63-0cec-4785-9fec-a1d1d7889911.png)
+
+<img width="750" alt="scatter_3d" src="https://user-images.githubusercontent.com/88467263/147858244-1842e741-5c72-4e93-b1d4-70bd55dd463a.PNG">
 
