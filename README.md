@@ -40,7 +40,7 @@ __________________________________________________________
 ![image](https://user-images.githubusercontent.com/88467263/147858134-e3b04208-9e41-4ccf-b040-19557cfc1b6d.png)
 
 
-### Deliverable 4: Visualizing Cryptocurrencies Results
+
 
 * Create a new DataFrame named clustered_df by concatenating the crypto_df and pcs_df DataFrames on the same columns. The index should be the same as the crypto_df DataFrame.
 * Add the CoinName column that holds the names of the cryptocurrencies.
@@ -48,5 +48,6 @@ __________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/88467263/147858214-5f9df836-c00c-4e50-b824-e420614ce99c.png)
 
-
+### Deliverable 4: Visualizing Cryptocurrencies Results
+<img width="374" alt="scatter_3d" src="https://user-images.githubusercontent.com/88467263/147858244-1842e741-5c72-4e93-b1d4-70bd55dd463a.PNG">
 
