@@ -21,7 +21,16 @@ __________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/88467263/147858023-2113dadb-e126-4e10-a45e-49527590ee63.png)
 
+* Use the StandardScaler fit_transform() function to standardize the features from the X DataFrame.
+<img width="750" alt="X_Scaled" src="https://user-images.githubusercontent.com/88467263/147858068-bd39f89d-78b1-4625-8285-5fadb5761afb.PNG">
+
 
 ### Deliverable 2: Reducing Data Dimensions Using PCA
+
+* Create a new DataFrame named pcs_df that includes the following columns, PC 1, PC 2, and PC 3, and uses the index of the crypto_df DataFrame as the index.
+
+<img width="750" alt="transform_PCA" src="https://user-images.githubusercontent.com/88467263/147858099-72fed8d8-c90b-46c7-b2e2-220df6528984.PNG">
+
+
 ### Deliverable 3: Clustering Cryptocurrencies Using K-means
 ### Deliverable 4: Visualizing Cryptocurrencies Results
