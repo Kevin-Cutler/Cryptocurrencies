@@ -17,6 +17,10 @@ __________________________________________________________
 
 <img width="750" alt="Dop_Coinname" src="https://user-images.githubusercontent.com/88467263/147857947-8b6bc123-405e-4de9-a560-3fa7edddf5d8.PNG">
 
+* se the get_dummies() method to create variables for the two text features, Algorithm and ProofType, and store the resulting data in a new DataFrame named X.
+
+![image](https://user-images.githubusercontent.com/88467263/147858023-2113dadb-e126-4e10-a45e-49527590ee63.png)
+
 
 ### Deliverable 2: Reducing Data Dimensions Using PCA
 ### Deliverable 3: Clustering Cryptocurrencies Using K-means
