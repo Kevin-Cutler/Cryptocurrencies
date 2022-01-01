@@ -33,4 +33,9 @@ __________________________________________________________
 
 
 ### Deliverable 3: Clustering Cryptocurrencies Using K-means
+
+![image](https://user-images.githubusercontent.com/88467263/147858125-32328092-cfbf-41cf-b69b-d62ae4dd19b1.png)
+![image](https://user-images.githubusercontent.com/88467263/147858134-e3b04208-9e41-4ccf-b040-19557cfc1b6d.png)
+
+
 ### Deliverable 4: Visualizing Cryptocurrencies Results
