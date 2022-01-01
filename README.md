@@ -15,7 +15,7 @@ __________________________________________________________
 
 * After filtering the crypto_df DataFrame so it only has rows where coins have been mined we remove the CoinName column from the crypto_df DataFrame since it's not going to be used on the clustering algorithm.
 
-<img width="261" alt="Dop_Coinname" src="https://user-images.githubusercontent.com/88467263/147857947-8b6bc123-405e-4de9-a560-3fa7edddf5d8.PNG">
+<img width="500" alt="Dop_Coinname" src="https://user-images.githubusercontent.com/88467263/147857947-8b6bc123-405e-4de9-a560-3fa7edddf5d8.PNG">
 
 
 ### Deliverable 2: Reducing Data Dimensions Using PCA
